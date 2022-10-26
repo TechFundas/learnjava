@@ -8,9 +8,9 @@ public class UnderstandingCasting {
 		int numValueInt = Integer.parseInt(numValue);
 		System.out.println(numValue);
 		
-		int  sumx = 38;
-		String fvalueString = "38";
-		System.out.println(fvalueString);
+		int  intValue = 38;
+		String valueString = "";
+		System.out.println(valueString);
 		
 		
 		
