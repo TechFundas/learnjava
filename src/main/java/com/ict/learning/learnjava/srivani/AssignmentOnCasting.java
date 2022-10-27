@@ -52,9 +52,9 @@ public class AssignmentOnCasting {
 	System.out.println(c);
 	
 	//double to long
-	double ca=1234567;
-	String za=String.valueOf(ca);
-	System.out.println(za);//doubt
+	//double ca=1234567;
+	//long za=Long.parseLong(ca);
+	//System.out.println(za);//doubt
 	
 	/*//string to char
 	String ma="43";
