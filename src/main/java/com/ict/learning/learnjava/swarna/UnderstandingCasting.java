@@ -34,7 +34,7 @@ public class UnderstandingCasting {
 
 	
 	    String dateInString = "Mon, 05 May 1980"
-	    		+ "";
+	    		+"";
 	    DateTimeFormatter formatter = DateTimeFormatter.ofPattern("EEE, d MMM yyyy", Locale.ENGLISH);
 	    LocalDate dateTime = LocalDate.parse(dateInString, formatter);
 	    
