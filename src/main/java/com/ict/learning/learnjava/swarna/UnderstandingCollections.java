@@ -13,15 +13,15 @@ public class UnderstandingCollections {
 		
 		//System.out.println(list.get(1));
 		System.out.println(list);
-		for(int i=0;i<list.size();i++) {
-			System.out.println(list.get(i));
-			
-			
-			
-			
-
-		}
-	
+		//list.remove(1);
+		//System.out.println(list);
+		/*
+		 * 
+		 * */
+		 //for(int i=0;i<list.size();i++) {
+			// System.out.println(list.get(i));
+		//}
+		  
 	}
 
 }
